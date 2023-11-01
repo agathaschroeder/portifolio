@@ -1,0 +1,63 @@
+@import url(" https://fonts.cdnfonts.com/css/asteru");
+@import url("https://fonts.cdnfonts.com/css/spicy-kebab");                  
+
+body{
+    background-image: url(https://ebm.com.br/wp-content/uploads/2021/05/WhatsApp-Image-2021-06-23-at-14.39.22-6-1-960x730.jpeg) ;
+    background-size: 195ex;
+}
+h1{
+    text-align: center;
+    font-family: 'ASTERU' , sem serifa ;
+}    
+#form1{
+    margin-left: 85ex;
+    border-color: blue;
+    font-family: 'Spicy Kebab' , sem serifa ;
+    backdrop-filter: blur(1px) saturate(65%);
+    -webkit-backdrop-filter: blur(1px) saturate(65%);
+    background-color: rgba(28, 70, 117, 0.86);
+    border-radius: 12px;
+    border: 1px solid rgba(209, 213, 219, 0.3);
+    color: white;
+    text-align: center;
+    margin: 5ex;
+}
+#form2{
+    margin-left: 20ex;
+    font-family: 'Spicy Kebab' , sem serifa ;
+    color: white;
+    backdrop-filter: blur(1px) saturate(65%);
+    -webkit-backdrop-filter: blur(1px) saturate(65%);
+    background-color: rgba(28, 70, 117, 0.86);
+    border-radius: 12px;
+    border: 1px solid rgba(209, 213, 219, 0.3);
+    width: 40ex;
+    text-align: center;
+}
+#form3{
+    margin-left: 130ex;
+    font-family: 'Spicy Kebab' , sem serifa ;
+    color: white;
+    backdrop-filter: blur(1px) saturate(65%);
+    -webkit-backdrop-filter: blur(1px) saturate(65%);
+    background-color: rgba(28, 70, 117, 0.86);
+    border-radius: 12px;
+    border: 1px solid rgba(209, 213, 219, 0.3);
+    width: 40ex;
+    text-align: center;
+    margin-top: 10ex;
+}
+#form4{
+    margin-top: 10ex;
+    margin-left: 25ex;
+    font-family: 'Spicy Kebab' , sem serifa ;
+    color: white;
+    backdrop-filter: blur(1px) saturate(65%);
+    -webkit-backdrop-filter: blur(1px) saturate(65%);
+    background-color: rgba(28, 70, 117, 0.86);
+    border-radius: 12px;
+    border: 1px solid rgba(209, 213, 219, 0.3);
+    width: 40ex;
+    text-align: center;
+    margin-top: 10ex;
+}
