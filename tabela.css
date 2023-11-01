@@ -1,0 +1,49 @@
+table{
+    margin-top: 10ex;
+    margin-left: 65ex;
+    background-color: aliceblue;
+}
+body{
+    background-image: url(https://urbe.me/lab/wp-content/uploads/2022/06/Fundos-de-investimento-para-o-agronegocio.jpg) ;
+    background-size: 195ex;
+}
+#bottone1 {
+    padding-left: 33px;
+    padding-right: 33px;
+    padding-bottom: 16px;
+    padding-top: 16px;
+    border-radius: 9px;
+    background: #fcda9296;
+    border: none;
+    font-family: inherit;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.4s;
+    margin-left: 10ex;
+   }
+   
+   #bottone1:hover {
+    box-shadow: 7px 5px 56px -14px #285394;
+   }
+   
+   #bottone1:active {
+    transform: scale(0.97);
+    box-shadow: 7px 5px 56px -14px #243f79;
+   }
+   p{
+    margin-left: 69ex ;
+    color: aliceblue;
+   }
+   form{
+    backdrop-filter: blur(1px) saturate(55%);
+    -webkit-backdrop-filter: blur(1px) saturate(55%);
+    background-color: rgba(226, 206, 157, 0.76);
+    border-radius: 12px;
+    border: 1px solid rgba(209, 213, 219, 0.3);
+    text-align: justify;
+   }
+img{
+    margin-left: 69ex ;
+    max-width: 60ex;
+    max-height: 60ex;
+}
